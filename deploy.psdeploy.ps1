@@ -10,7 +10,7 @@ if(
             FromSource $ENV:BHModulePath
             To PSGallery
             WithOptions @{
-                ApiKey = $ENV:NugetApiKey
+                ApiKey = $ENV:NuGetKey
             }
         }
     }

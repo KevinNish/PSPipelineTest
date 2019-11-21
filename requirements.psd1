@@ -17,4 +17,7 @@
     'PowerShellBuild' = @{
         Version = '0.4.0'
     }
+    'PSDeploy' = @{
+        Version = '1.0.3'
+    }
 }

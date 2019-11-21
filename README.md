@@ -1,8 +1,8 @@
 Welcome to the psake project
 =============================
 
-| GitHub Actions | PS Gallery |
-|----------------|------------|
+| GitHub Actions |
+|----------------|
 [![GitHub Actions Status][github-actions-badge]][github-actions-build]
 
 ## Installation

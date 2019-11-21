@@ -1,4 +1,4 @@
-Welcome to the psake project
+Welcome to the PSPipelineTest project
 =============================
 
 | GitHub Actions |
